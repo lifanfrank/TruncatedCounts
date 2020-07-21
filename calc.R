@@ -97,22 +97,22 @@ calc=function(seed=NULL,b0,b1,s0,s1,t){
 }
 
 # example
-calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=Inf)
-calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=6)
-calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=3)
-calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=1)
+# calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=Inf)
+# calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=6)
+# calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=3)
+# calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=1)
 
 
-calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=Inf)
-calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=6)
-calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=3)
-calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=1)
+# calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=Inf)
+# calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=6)
+# calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=3)
+# calc(seed=0611,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=1)
 
 # # check whether the results are stable
-calc(seed=123,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=Inf)
-calc(seed=123,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=6)
-calc(seed=123,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=3)
-calc(seed=123,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=1)
+# calc(seed=123,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=Inf)
+# calc(seed=123,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=6)
+# calc(seed=123,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=3)
+# calc(seed=123,b0=log(2.7),b1=log(0.7),s0=0.05,s1=0.1,t=1)
  
 
 
