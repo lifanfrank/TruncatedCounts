@@ -1,6 +1,6 @@
 # TruncatedCounts
 
-The current folder includes R code for reproducing Table 1-5 and Figure 1 in the article "Sample size and power considerations for cluster randomized trials with count outcomes subject to right truncation" by Li and Tong (submitted).
+The current folder includes R code for reproducing Table 1-5 and Figure 1 in the article "Sample size and power considerations for cluster randomized trials with count outcomes subject to right truncation" by Li and Tong (Biometrical Journal, 2021).
 
 For questions or comments about the code please contact Fan Li at <fan.f.li@yale.edu>.
 
